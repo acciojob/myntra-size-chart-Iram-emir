@@ -1,2 +1,14 @@
+  table {
+	  background-color: pink; color:white;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 0px;
+    text-align: left;
+  }
 
-/* Your CSS Code here. */
+  th {
+    background-color: orange;
+  }
